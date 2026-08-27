@@ -1,0 +1,61 @@
+TicketID,DateOpened,Queue,Category,Status,Priority
+T2001,2026-04-03,Payroll,Overtime,Closed,Medium
+T2002,2026-06-03,Benefits,Insurance,Closed,Medium
+T2003,2026-02-28,Payroll,Pay discrepancy,Closed,Medium
+T2004,2026-06-27,General,Policy question,Closed,Medium
+T2005,2026-02-22,Onboarding,System access,Open,Medium
+T2006,2026-02-15,Benefits,Leave query,Closed,Medium
+T2007,2026-01-08,Onboarding,ID badge,Closed,High
+T2008,2026-01-07,Onboarding,Orientation,Closed,Medium
+T2009,2026-04-21,General,Policy question,Closed,Medium
+T2010,2026-02-24,Benefits,401k,In Progress,Medium
+T2011,2026-05-13,General,Policy question,Closed,Medium
+T2012,2026-01-25,General,Address change,Open,Medium
+T2013,2026-06-14,Benefits,401k,Open,High
+T2014,2026-05-15,General,Other,Closed,Low
+T2015,2026-06-18,Payroll,Tax form,Closed,Low
+T2016,2026-04-06,Onboarding,System access,Open,Medium
+T2017,2026-05-04,Benefits,401k,Closed,Medium
+T2018,2026-03-25,Benefits,Insurance,In Progress,Low
+T2019,2026-04-01,Onboarding,ID badge,Closed,Medium
+T2020,2026-01-08,Benefits,401k,Open,Low
+T2021,2026-01-25,General,Other,Closed,Medium
+T2022,2026-05-06,General,Policy question,In Progress,High
+T2023,2026-05-25,Benefits,401k,Closed,Medium
+T2024,2026-06-21,General,Policy question,Closed,High
+T2025,2026-02-08,Payroll,Pay discrepancy,Closed,Low
+T2026,2026-05-08,Benefits,Insurance,Open,Low
+T2027,2026-01-02,Benefits,Leave query,Open,Medium
+T2028,2026-06-16,Onboarding,ID badge,In Progress,Medium
+T2029,2026-02-26,General,Policy question,Closed,Medium
+T2030,2026-01-22,Payroll,Tax form,Closed,High
+T2031,2026-04-28,General,Other,Open,Low
+T2032,2026-04-24,Payroll,Tax form,Open,Medium
+T2033,2026-02-18,Benefits,Leave query,Closed,High
+T2034,2026-03-15,Benefits,Insurance,Open,High
+T2035,2026-01-21,Payroll,Overtime,Open,Low
+T2036,2026-02-14,Benefits,Leave query,Closed,Medium
+T2037,2026-01-06,General,Policy question,Open,High
+T2038,2026-04-10,Onboarding,System access,In Progress,High
+T2039,2026-02-10,Benefits,Insurance,Open,Low
+T2040,2026-01-02,Onboarding,Orientation,Closed,Medium
+T2041,2026-05-03,Payroll,Pay discrepancy,Open,Low
+T2042,2026-04-04,Benefits,401k,Closed,Low
+T2043,2026-04-22,Payroll,Overtime,In Progress,Medium
+T2044,2026-02-22,Onboarding,Orientation,Closed,Medium
+T2045,2026-04-05,Onboarding,Orientation,Closed,High
+T2046,2026-01-01,Onboarding,System access,In Progress,Low
+T2047,2026-05-07,Payroll,Overtime,Closed,Medium
+T2048,2026-01-08,Onboarding,System access,Closed,Medium
+T2049,2026-05-23,General,Policy question,In Progress,Low
+T2050,2026-06-04,Onboarding,ID badge,Closed,Low
+T2051,2026-06-18,Payroll,Pay discrepancy,Closed,Medium
+T2052,2026-06-11,Benefits,Insurance,Closed,High
+T2053,2026-01-03,Onboarding,Orientation,Closed,Medium
+T2054,2026-01-11,Payroll,Pay discrepancy,Closed,Medium
+T2055,2026-05-23,General,Policy question,In Progress,Low
+T2056,2026-01-23,Payroll,Pay discrepancy,In Progress,Low
+T2057,2026-05-18,Onboarding,ID badge,Closed,Medium
+T2058,2026-03-12,Payroll,Pay discrepancy,Closed,Medium
+T2059,2026-06-04,Benefits,Leave query,In Progress,High
+T2060,2026-02-28,Benefits,Insurance,Closed,High

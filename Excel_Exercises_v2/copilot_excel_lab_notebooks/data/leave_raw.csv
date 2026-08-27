@@ -1,0 +1,21 @@
+EmployeeID,Name,Department,Entitlement,LeaveTaken
+E1001,Asha,Benefits,18,0
+E1002,Ben,Onboarding,22,7
+E1003,Carlos,HR Ops,20,4
+E1004,Divya,Payroll,18,2
+E1005,Elena,Benefits,24,1
+E1006,Farid,Onboarding,18,2
+E1007,Grace,HR Ops,20,7
+E1008,Hiro,Payroll,18,6
+E1009,Imani,Benefits,24,7
+E1010,Jack,Onboarding,24,18
+E1011,Kavya,HR Ops,22,0
+E1012,Liam,Payroll,20,13
+E1013,Meera,Benefits,22,8
+E1014,Noah,Onboarding,20,6
+E1015,Priya,HR Ops,22,3
+E1016,Quinn,Payroll,18,12
+E1017,Ravi,Benefits,18,11
+E1018,Sara,Payroll,20,23
+E1019,Tom,Benefits,18,18
+E1020,Uma,HR Ops,22,20
