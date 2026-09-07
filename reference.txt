@@ -6,3 +6,7 @@ Microsoft Standard Post Event Survey
 https://www.metricsthatmatter.com/url/u.aspx?CB5AB1580240021899
 
 https://github.com/rushtojp/python-foundations-3-weeks
+
+prompt gallery
+
+https://adoption.microsoft.com/en-us/copilot/prompt-gallery/
