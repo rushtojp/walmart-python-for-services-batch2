@@ -10,3 +10,5 @@ https://github.com/rushtojp/python-foundations-3-weeks
 prompt gallery
 
 https://adoption.microsoft.com/en-us/copilot/prompt-gallery/
+
+https://adoption.microsoft.com/en-us/scenario-library/
